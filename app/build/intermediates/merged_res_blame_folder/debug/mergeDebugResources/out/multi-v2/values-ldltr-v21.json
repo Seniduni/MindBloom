@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mindbloom.app-mergeDebugResources-65:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/punaraseniduni/.gradle/caches/8.11.1/transforms/12464f37718fbe454b9c46ea813c8132/transformed/appcompat-1.7.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

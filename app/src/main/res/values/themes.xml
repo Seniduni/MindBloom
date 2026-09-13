@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MindBloom" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/mb_white</item>
+        <item name="android:windowBackground">@color/mb_white</item>
+    </style>
+</resources>

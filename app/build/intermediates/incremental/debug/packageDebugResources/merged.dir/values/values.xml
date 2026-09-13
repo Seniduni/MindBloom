@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FFFFFFFF</color>
+    <color name="mb_ink">#FF1B1A3D</color>
+    <color name="mb_purple">#FF6B4EE6</color>
+    <color name="mb_purple_light">#FF8B6FF0</color>
+    <color name="mb_white">#FFFFFFFF</color>
+    <string name="app_name">MindBloom</string>
+    <string name="app_tagline">Grow Better Every Day</string>
+    <style name="Theme.MindBloom" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/mb_white</item>
+        <item name="android:windowBackground">@color/mb_white</item>
+    </style>
+</resources>

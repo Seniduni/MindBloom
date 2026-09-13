@@ -1,0 +1,69 @@
+com.mindbloom.app-navigation-runtime-2.8.5-0 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/02627497ee632f0d3c8edae583064d3e/transformed/navigation-runtime-2.8.5/res
+com.mindbloom.app-ui-util-release-1 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/07ed3554344fef5fa955840e270954ca/transformed/ui-util-release/res
+com.mindbloom.app-foundation-layout-release-2 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/084de3ff0a1c0b289f503e1ebbd51d77/transformed/foundation-layout-release/res
+com.mindbloom.app-ui-unit-release-3 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/0a73d35cbf3d31d5d12e76452f4ac554/transformed/ui-unit-release/res
+com.mindbloom.app-core-1.15.0-4 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/0b584e502e84b4f2b4dc15f170425f08/transformed/core-1.15.0/res
+com.mindbloom.app-lifecycle-runtime-compose-release-5 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/0d18dbfd2a66ef5a07166c9ba81d7adc/transformed/lifecycle-runtime-compose-release/res
+com.mindbloom.app-appcompat-1.7.0-6 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/12464f37718fbe454b9c46ea813c8132/transformed/appcompat-1.7.0/res
+com.mindbloom.app-lifecycle-livedata-core-2.8.7-7 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/16a4981edc5f5874fc9bcff8ace83461/transformed/lifecycle-livedata-core-2.8.7/res
+com.mindbloom.app-ui-tooling-release-8 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/178ddf836e098346b8159e40e6c7fc02/transformed/ui-tooling-release/res
+com.mindbloom.app-emoji2-views-helper-1.3.0-9 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/1a1ded5277a6f51acbfd43d54b00428e/transformed/emoji2-views-helper-1.3.0/res
+com.mindbloom.app-room-runtime-2.6.1-10 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/1a8b54a9af187dc818c083dc14c02b38/transformed/room-runtime-2.6.1/res
+com.mindbloom.app-emoji2-1.3.0-11 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/1b7293f1749e82e5c79c4ecacd63a876/transformed/emoji2-1.3.0/res
+com.mindbloom.app-ui-tooling-preview-release-12 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/1e90294472352fdac3c5f53fdc8bac61/transformed/ui-tooling-preview-release/res
+com.mindbloom.app-activity-ktx-1.9.3-13 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/22f56a06a7d1a2ebec4e7750986331d8/transformed/activity-ktx-1.9.3/res
+com.mindbloom.app-work-runtime-ktx-2.9.1-14 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/3b61cbb7727a39fb27aceb7ba5875550/transformed/work-runtime-ktx-2.9.1/res
+com.mindbloom.app-material-release-15 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/3e6203e8964182383bf375bf715db4f6/transformed/material-release/res
+com.mindbloom.app-savedstate-1.2.1-16 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/3f1dadfd166a0b7cb530e24cc4b3e9e7/transformed/savedstate-1.2.1/res
+com.mindbloom.app-navigation-compose-2.8.5-17 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/3f6a5825f1f620dbfb6c86e9ffb4dac7/transformed/navigation-compose-2.8.5/res
+com.mindbloom.app-room-ktx-2.6.1-18 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/4c07d8cf163908de9b1979fa81e0309e/transformed/room-ktx-2.6.1/res
+com.mindbloom.app-lifecycle-viewmodel-compose-release-19 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/54fa9c74a8a0ff741080c6d771e0851e/transformed/lifecycle-viewmodel-compose-release/res
+com.mindbloom.app-activity-compose-1.9.3-20 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/576d5b65aaa8ae0b53dafc709e61d571/transformed/activity-compose-1.9.3/res
+com.mindbloom.app-material3-release-21 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/5f038a948d0bee44fd02aec98c96d2e9/transformed/material3-release/res
+com.mindbloom.app-runtime-release-22 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/5f4b1194d783551da9465386da05d1ce/transformed/runtime-release/res
+com.mindbloom.app-annotation-experimental-1.4.1-23 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/68014a1709b79d1656e285c85381810b/transformed/annotation-experimental-1.4.1/res
+com.mindbloom.app-ui-graphics-release-24 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/69d20702da4da6ae3b0da30e7a6cf5db/transformed/ui-graphics-release/res
+com.mindbloom.app-core-runtime-2.2.0-25 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/6aa6913f76646d14dee07ad96bff5f2c/transformed/core-runtime-2.2.0/res
+com.mindbloom.app-ui-test-manifest-1.7.6-26 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/7f66cb9c127680f7b48cecc184e14030/transformed/ui-test-manifest-1.7.6/res
+com.mindbloom.app-fragment-1.5.4-27 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/8200318d56d4edd7694993fddee64e23/transformed/fragment-1.5.4/res
+com.mindbloom.app-lifecycle-livedata-2.8.7-28 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/8557d0728b81961b72ee9c11fdc8a3a3/transformed/lifecycle-livedata-2.8.7/res
+com.mindbloom.app-sqlite-framework-2.4.0-29 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/8820425f4f6f398426e6486f4c827e98/transformed/sqlite-framework-2.4.0/res
+com.mindbloom.app-foundation-release-30 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/8bf435f5974bb198da6c8d4a76a679c3/transformed/foundation-release/res
+com.mindbloom.app-startup-runtime-1.1.1-31 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/8eb0a2f3d95e24b5400062f38ad618a7/transformed/startup-runtime-1.1.1/res
+com.mindbloom.app-lifecycle-process-2.8.7-32 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/91a2f21f15270bc4fdf63ffd0ded7e8d/transformed/lifecycle-process-2.8.7/res
+com.mindbloom.app-lifecycle-viewmodel-ktx-2.8.7-33 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/9271a1dc4661fac74ca4a40c44a57529/transformed/lifecycle-viewmodel-ktx-2.8.7/res
+com.mindbloom.app-core-ktx-1.15.0-34 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/959a6db3d67122b17fa3d3c83bb93377/transformed/core-ktx-1.15.0/res
+com.mindbloom.app-ui-release-35 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/959f1d6429e89ae187d42dd0cb85aab8/transformed/ui-release/res
+com.mindbloom.app-ui-tooling-data-release-36 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/993da05e138f51b702e9a275e8d7a5c0/transformed/ui-tooling-data-release/res
+com.mindbloom.app-tracing-1.2.0-37 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/9dd1d567608db94fac539739ed090901/transformed/tracing-1.2.0/res
+com.mindbloom.app-sqlite-2.4.0-38 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/a4f41eacd249240b48144ddf078fc477/transformed/sqlite-2.4.0/res
+com.mindbloom.app-savedstate-ktx-1.2.1-39 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/a53b1a43e8b56612acf96962b98ab894/transformed/savedstate-ktx-1.2.1/res
+com.mindbloom.app-work-runtime-2.9.1-40 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/a85f2acd60474bfa48f4819ae00fee3f/transformed/work-runtime-2.9.1/res
+com.mindbloom.app-navigation-runtime-ktx-2.8.5-41 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/aae0b6e200690033130d3c7255378d3b/transformed/navigation-runtime-ktx-2.8.5/res
+com.mindbloom.app-material-icons-extended-release-42 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/adbd581607d54e5c7bbd7f2d5755649f/transformed/material-icons-extended-release/res
+com.mindbloom.app-navigation-common-ktx-2.8.5-43 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/b5b86fede0a66d22ce39c9facb3fa496/transformed/navigation-common-ktx-2.8.5/res
+com.mindbloom.app-ui-geometry-release-44 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/b7ace2db1baee4351a9040f5e2260661/transformed/ui-geometry-release/res
+com.mindbloom.app-appcompat-resources-1.7.0-45 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/c714e76dc79fd6e63645076e1939c335/transformed/appcompat-resources-1.7.0/res
+com.mindbloom.app-runtime-saveable-release-46 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/cc38e57f2f6a4e3f11cd9146e00a9336/transformed/runtime-saveable-release/res
+com.mindbloom.app-animation-release-47 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/cd2deab16726b23cfd380b4099b852cb/transformed/animation-release/res
+com.mindbloom.app-material-icons-core-release-48 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/ce7d43d622587b6de1b1660feb27a74f/transformed/material-icons-core-release/res
+com.mindbloom.app-lifecycle-runtime-release-49 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/d01e83df8495d9e2f720e9df58ab4c49/transformed/lifecycle-runtime-release/res
+com.mindbloom.app-graphics-path-1.0.1-50 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/d10159314ce8ac610b43be9ac8685319/transformed/graphics-path-1.0.1/res
+com.mindbloom.app-customview-poolingcontainer-1.0.0-51 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/d31baca7b750e0705355c1b37f5d3a0d/transformed/customview-poolingcontainer-1.0.0/res
+com.mindbloom.app-material-ripple-release-52 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/d55b6a31e985b9a4b90f19efbf10555f/transformed/material-ripple-release/res
+com.mindbloom.app-lifecycle-runtime-ktx-release-53 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/dabee1e1ef4531094a317add795b0fcd/transformed/lifecycle-runtime-ktx-release/res
+com.mindbloom.app-navigation-common-2.8.5-54 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/dadceda8e68eff6546e70bb868deb259/transformed/navigation-common-2.8.5/res
+com.mindbloom.app-profileinstaller-1.3.1-55 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/ed638255f52c6bf9107137af9a61419a/transformed/profileinstaller-1.3.1/res
+com.mindbloom.app-activity-1.9.3-56 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/f401d03925ae7d236a9fb1916f32bce6/transformed/activity-1.9.3/res
+com.mindbloom.app-lifecycle-livedata-core-ktx-2.8.7-57 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/f83963d5b277d2d1aa260f050151a532/transformed/lifecycle-livedata-core-ktx-2.8.7/res
+com.mindbloom.app-lifecycle-viewmodel-release-58 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/f8aa416d6bf9ecd52fea1a51296f04ba/transformed/lifecycle-viewmodel-release/res
+com.mindbloom.app-ui-text-release-59 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/f8b0e9da354d039098e6bcf505822773/transformed/ui-text-release/res
+com.mindbloom.app-animation-core-release-60 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/fc11bad09950ab5a75ef0080278b2f38/transformed/animation-core-release/res
+com.mindbloom.app-lifecycle-viewmodel-savedstate-2.8.7-61 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/fd802504ed271c9a3c996c4ffa3ca90b/transformed/lifecycle-viewmodel-savedstate-2.8.7/res
+com.mindbloom.app-lifecycle-service-2.8.7-62 /Users/punaraseniduni/.gradle/caches/8.11.1/transforms/fdbc07a68956806d81975b9f772f349e/transformed/lifecycle-service-2.8.7/res
+com.mindbloom.app-resValues-63 /Users/punaraseniduni/Downloads/MindBloom 2/app/build/generated/res/resValues/debug
+com.mindbloom.app-packageDebugResources-64 /Users/punaraseniduni/Downloads/MindBloom 2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.mindbloom.app-packageDebugResources-65 /Users/punaraseniduni/Downloads/MindBloom 2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.mindbloom.app-debug-66 /Users/punaraseniduni/Downloads/MindBloom 2/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.mindbloom.app-debug-67 /Users/punaraseniduni/Downloads/MindBloom 2/app/src/debug/res
+com.mindbloom.app-main-68 /Users/punaraseniduni/Downloads/MindBloom 2/app/src/main/res

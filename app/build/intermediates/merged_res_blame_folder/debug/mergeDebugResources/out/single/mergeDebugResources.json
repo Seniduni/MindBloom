@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.mindbloom.app-debug-67:/font_poppins_regular.ttf.flat",
+        "source": "com.mindbloom.app-main-69:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.mindbloom.app-debug-67:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mindbloom.app-main-69:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mindbloom.app-debug-67:/font_poppins_medium.ttf.flat",
+        "source": "com.mindbloom.app-main-69:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "com.mindbloom.app-debug-67:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.mindbloom.app-main-69:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mindbloom.app-debug-67:/font_poppins_extrabold.ttf.flat",
+        "source": "com.mindbloom.app-main-69:/font/poppins_extrabold.ttf"
+    },
+    {
+        "merged": "com.mindbloom.app-debug-67:/font_poppins_bold.ttf.flat",
+        "source": "com.mindbloom.app-main-69:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.mindbloom.app-debug-67:/font_poppins_semibold.ttf.flat",
+        "source": "com.mindbloom.app-main-69:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "com.mindbloom.app-debug-67:/drawable_ic_notification.xml.flat",
+        "source": "com.mindbloom.app-main-69:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.mindbloom.app-debug-67:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.mindbloom.app-main-69:/drawable/ic_launcher_foreground.xml"
+    }
+]

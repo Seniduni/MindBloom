@@ -1,0 +1,7 @@
+<resources>
+    <color name="mb_purple">#FF6B4EE6</color>
+    <color name="mb_purple_light">#FF8B6FF0</color>
+    <color name="mb_white">#FFFFFFFF</color>
+    <color name="mb_ink">#FF1B1A3D</color>
+    <color name="ic_launcher_background">#FFFFFFFF</color>
+</resources>

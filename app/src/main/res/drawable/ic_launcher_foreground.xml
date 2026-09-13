@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Centre lotus petal -->
+    <path
+        android:fillColor="#7C5CE8"
+        android:pathData="M54,26 C60,34 60,46 54,54 C48,46 48,34 54,26 Z" />
+    <!-- Left petals -->
+    <path
+        android:fillColor="#8B6FF0"
+        android:pathData="M44,30 C51,36 54,46 52,56 C43,52 38,42 44,30 Z" />
+    <path
+        android:fillColor="#5FD4E0"
+        android:pathData="M34,38 C44,40 51,48 52,58 C42,58 33,50 34,38 Z" />
+    <!-- Right petals -->
+    <path
+        android:fillColor="#8B6FF0"
+        android:pathData="M64,30 C57,36 54,46 56,56 C65,52 70,42 64,30 Z" />
+    <path
+        android:fillColor="#5FD4E0"
+        android:pathData="M74,38 C64,40 57,48 56,58 C66,58 75,50 74,38 Z" />
+    <!-- Stem -->
+    <path
+        android:fillColor="#4FC3D9"
+        android:pathData="M53,56 L55,56 L55,80 L53,80 Z" />
+    <!-- Leaves -->
+    <path
+        android:fillColor="#54D6C0"
+        android:pathData="M53,74 C46,74 38,70 34,64 C43,62 51,66 53,74 Z" />
+    <path
+        android:fillColor="#54D6C0"
+        android:pathData="M55,74 C62,74 70,70 74,64 C65,62 57,66 55,74 Z" />
+</vector>
